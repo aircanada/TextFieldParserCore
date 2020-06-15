@@ -12,7 +12,7 @@ https://www.nuget.org/packages/TextFieldParserStandard/1.0.0
 Use the same way as you would use `TextFieldParser` for .NET Framework.
 
 For a specific example, see this unit test:
-https://github.com/datchung/TextFieldParserStandard/blob/master/src/TextFieldParserStandard.Test/TextFieldParserStandardTest.cs#L46
+https://github.com/aircanada/TextFieldParserStandard/blob/master/src/TextFieldParserStandard.Test/TextFieldParserStandardTest.cs#L46
 
 ## Contributing
 
