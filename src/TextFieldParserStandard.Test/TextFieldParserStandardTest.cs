@@ -1,14 +1,13 @@
-﻿using Microsoft.VisualBasic.FileIO;
 using NUnit.Framework;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
 
-namespace TextFieldParserFramework.Test
+namespace TextFieldParserStandard.Test
 {
     [TestFixture]
-    public class TextFieldParserFrameworkTest
+    public class TextFieldParserStandardTest
     {
         [Test]
         [TestCase(",", "comma delimited")]

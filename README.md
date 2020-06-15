@@ -1,18 +1,18 @@
 # TextFieldParserCore
-A 1 to 1 port of `TextFieldParser` for .NET Core.
+A 1 to 1 port of `TextFieldParser` for .NET Standard.
 
 ## Getting Started
 
-Install via nuget: `TextFieldParserCore`
+Install via nuget: `TextFieldParserStandard`
 
-https://www.nuget.org/packages/TextFieldParserCore/1.0.0
+https://www.nuget.org/packages/TextFieldParserStandard/1.0.0
 
 ## Examples
 
 Use the same way as you would use `TextFieldParser` for .NET Framework.
 
 For a specific example, see this unit test:
-https://github.com/datchung/TextFieldParserCore/blob/master/src/TextFieldParserCore.Test/TextFieldParserCoreTest.cs#L46
+https://github.com/datchung/TextFieldParserStandard/blob/master/src/TextFieldParserStandard.Test/TextFieldParserStandardTest.cs#L46
 
 ## Contributing
 

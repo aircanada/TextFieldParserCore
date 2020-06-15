@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+    <PackageId>TextFieldParserStandard</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Dat Chung, Gabriel Kenderesy</Authors>
+    <Company>Dat Chung, Air Canada</Company>
+    <RepositoryUrl>https://github.com/aircanada/TextFieldParserStandard</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageDescription>A 1 to 1 port of TextFieldParser for .NET Standard.</PackageDescription>
+    <PackageTags>TextFieldParser;csv;tab;delimited;fixed;width;text;parse;excel;port</PackageTags>
+  </PropertyGroup>
+
+</Project>
